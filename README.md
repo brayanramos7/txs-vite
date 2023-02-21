@@ -1,4 +1,4 @@
-This a file abput this challenge  > > https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI < < 
+This a file is about this challenge  > > https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI < < 
 chek it out  if you like to do front end challenges. 
 
 THINGS YOU WILL NEED 
